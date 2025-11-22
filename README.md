@@ -1,44 +1,31 @@
-# NextJS -2025 (main)
+# Figma to Code - Production Ready
 
-Pixel-perfect website generated from Figma design using MCP Automation
+Generated from: https://www.figma.com/design/oWK4dPW26jwz4I3dncfu6S/NextJS--2025--main-?node-id=0-1&p=f&t=yiGqdQdZ9scimscl-0
 
-## Design Extracted
+## Features
 
-- **Colors**: 20
-- **Typography**: 13 font styles
-- **Pages**: 1
-- **Components**: 3
-- **Images**: 5
-- **Spacing tokens**: 11
-- **Border radius**: 6
-- **Shadows**: 2
+- Auto-layout to Flexbox/Grid
+- Responsive design (Tailwind breakpoints)
+- Component extraction
+- Image optimization
+- Production-ready React + Tailwind
+- Next.js ready
 
-## Tech Stack
+## Setup
 
-- Next.js 14
-- React 18
-- TypeScript
-- Semantic CSS with responsive design
-
-## Getting Started
 ```bash
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000)
+Open http://localhost:3000
 
-## Build
-```bash
-npm run build
-npm start
-```
+## What's Included
 
-## Design Fidelity
+- React components with Tailwind CSS
+- Responsive layout (flexbox/grid)
+- Optimized images
+- Production-ready code
+- No inline styles!
 
-This website is a semantic recreation of the Figma design, including:
-- Semantic HTML structure (nav, main, header, etc.)
-- Responsive grid layouts
-- Card-based components
-- Design system colors and typography
-- Mobile-responsive design
+Built with advanced Figma API parsing
