@@ -1,6 +1,6 @@
 # Figma to Code - Production Ready
 
-Generated from: https://www.figma.com/design/oWK4dPW26jwz4I3dncfu6S/NextJS--2025--main-?node-id=0-1&p=f&t=yiGqdQdZ9scimscl-0
+Generated from: https://www.figma.com/design/oWK4dPW26jwz4I3dncfu6S/NextJS--2025--main-?node-id=0-1&p=f&t=PstdjoglzUYvcQyp-0
 
 ## Features
 
